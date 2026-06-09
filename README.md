@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Jonas Avila 👋
 
-<!--
-**Jonas0017/Jonas0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on Web and Mobile Development.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript
+- JavaScript
+- React
+- React Native
+- PHP
+- Firebase
+- HTML5
+- CSS3
+- REST APIs
+
+## 📱 Featured Projects
+
+### Meu Auto
+Mobile application for vehicle information management and organization.
+
+### Gnosis Brasil Platform
+Administrative platform focused on content and institutional management.
+
+## 🎯 Interests
+
+- Software Engineering
+- System Architecture
+- Mobile Development
+- Web Development
+- Artificial Intelligence
+- Automation
+
+## 📫 Contact
+
+LinkedIn: [Seu LinkedIn]
+Email: [Seu Email]
